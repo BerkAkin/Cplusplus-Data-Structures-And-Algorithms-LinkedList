@@ -1,0 +1,2 @@
+C:\Users\Berk\source\repos\VeriYapilariLabLinkedlistOdevi\Debug\VeriYapilariLabLinkedlistOdevi.exe
+C:\Users\Berk\source\repos\VeriYapilariLabLinkedlistOdevi\Debug\VeriYapilariLabLinkedlistOdevi.pdb
